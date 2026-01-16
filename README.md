@@ -31,10 +31,15 @@ This project was developed as part of a coursework assignment and later polished
 
 ##  Project Structure
 src/
+
 └── edu/dvc/comsc256/rs/
-├── Assignment1.java // Main driver program
+
+├── StudentTest.java // Main driver program
+
 ├── Course.java // Course model
+
 ├── Instructor.java // Instructor model
+
 └── Student.java // Student model
 
 ---
